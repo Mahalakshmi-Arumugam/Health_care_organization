@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AmKBjpeX4kfptKtPtdN7CN1FQx34RqXVZHdMep5YSHM=",
+  "Source": "HealthCareOrganization",
+  "BasePath": "_content/HealthCareOrganization",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
