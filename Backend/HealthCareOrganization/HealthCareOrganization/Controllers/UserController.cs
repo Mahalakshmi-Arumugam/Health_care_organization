@@ -13,7 +13,7 @@ namespace BigBang.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
-    //[EnableCors("AngularCors")]
+   
     public class UserController : ControllerBase
     {
         private readonly IManageUser _manageUser;
